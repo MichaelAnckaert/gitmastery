@@ -5,3 +5,6 @@ This repository is used to update learn all there is about Git.
 Stuff I need to learn 
 
  * rebase vs merge
+ * git blame
+ * git bisect
+ * staging in chunks
