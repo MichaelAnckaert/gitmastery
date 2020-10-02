@@ -1,7 +1,7 @@
 """greeter.py - Simple Python module"""
 
 
-def build_personalized_greeting(prefix: str, name) -> str:
+def build_personalized_greeting(prefix: str, name: str) -> str:
     return f"Hello, {prefix} {name}"
 
 
