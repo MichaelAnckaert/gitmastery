@@ -21,4 +21,4 @@ def greet(name: str):
     print(build_greeting(name))
 
 def is_profanity(greeting: str) -> bool:
-    return 'fuck' in greeting
+    return 'Fuck' in greeting
