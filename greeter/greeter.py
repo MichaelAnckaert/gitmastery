@@ -22,3 +22,7 @@ def greet(name: str):
 
 def is_profanity(greeting: str) -> bool:
     return 'Fuck' in greeting
+
+def strip_crap(greeting: str) -> str:
+    return greeting.strip()
+
