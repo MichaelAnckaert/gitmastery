@@ -2,3 +2,5 @@ Test file
 A new line
 
 HOTFIX
+
+More changes
