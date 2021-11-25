@@ -4,7 +4,7 @@ import random
 
 
 def random_greeting_prefix():
-    prefixes = ['Hey', 'Hi', 'Hello', 'Bonjour', 'Hola']
+    prefixes = ['Hey', 'Hi', 'Hello', 'Bonjour', 'Holla']
     return random.choice(prefixes)
 
 
