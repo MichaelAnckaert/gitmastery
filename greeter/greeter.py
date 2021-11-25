@@ -1,4 +1,4 @@
-"""greeter.py - Simple Python module"""
+"""greeter.py - """
 
 import random
 
